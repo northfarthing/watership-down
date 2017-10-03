@@ -1,7 +1,5 @@
 # watership-down
 
-Galroth Galdr
-
 Othala. Odal. 
 
 An ancestral home is very dear to every man,
